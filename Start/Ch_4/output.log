@@ -1,0 +1,10 @@
+INFO:root:This is an info-level log message
+WARNING:root:This is a warning-level message
+2024-03-12 20:51:47,369: INFO: <module>: Line:12 This is an info-level log message
+2024-03-12 20:51:47,369: WARNING: <module>: Line:13 This is a warning-level message
+03/12/2024 08:54:49 PM: INFO: <module>: Line:16 This is an info-level log message
+03/12/2024 08:54:49 PM: WARNING: <module>: Line:17 This is a warning-level message
+03/12/2024 08:54:49 PM: DEBUG: another_mess: Line:11 This is debug leve....
+USER: vijay@empam.com 03/12/2024 09:00:26 PM: INFO: <module>: Line:16 This is an info-level log message
+USER: vijay@empam.com 03/12/2024 09:00:26 PM: WARNING: <module>: Line:17 This is a warning-level message
+USER: vijay@empam.com 03/12/2024 09:00:26 PM: DEBUG: another_mess: Line:11 This is debug leve....
